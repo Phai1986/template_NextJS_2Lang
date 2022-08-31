@@ -52,7 +52,7 @@ const Homepage = () => {
           </div>
         </div>
 
-        <p>Wellcome Page</p>
+        <p>Wellcome Next.js</p>
 
       </div>
       <Footer />
