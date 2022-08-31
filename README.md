@@ -33,3 +33,4 @@ and open your browser at http://localhost:8080
 
 You can now deploy the out folder to any static webserver, like [GitHub pages](https://pages.github.com).
 "# JDF_website" 
+"# template_NextJS_2Lang" 
