@@ -1,0 +1,29 @@
+{
+    "product_title": "About products and services",
+    "product_block": [
+        {
+            "img": "../images/product1.jpg",
+            "title": "Seasonings",
+            "text": "JD Food creates seasonings to be used in various foods such as sprinkles, marinades, and other flavorings, scents, colors, or other additives. We work together to create a unique formula to get the best taste. It corresponds to the needs of customers the most by combining the modern technology of JD Food to create standardized and clean seasonings until it can be used with a wide variety of foods as needed.",
+            "link": "/product?product=seasonings"
+        },
+        {
+            "img": "../images/product2.jpg",
+            "title": "Sauces, pastes and fillings",
+            "text": "JD Food's sauces, dips, and fillings are produced with modern processes and meet world-class standards. It is capable of adding extraordinary flavors to many foods as well. Most importantly, it can be used as an ingredient for both savory and sweet foods.",
+            "link": "/product?product=sauceFilling"
+        },
+        {
+            "img": "../images/product3.jpg",
+            "title": "Coconut chips",
+            "text": "JD Food is the initial factory that produces coconut chips for exporting around the world and has sought to produce continuously for more than 10 years. With our dedicated selection of raw materials together with modern production machines, our coconut chips meet the national standard and have the highest production capacity in Thailand ever.",
+            "link": "/product?product=coconutChips"
+        },
+        {
+            "img": "../images/product4.jpg",
+            "title": "JD Food products",
+            "text": "We are not only a manufacturer of seasonings and formulas for entrepreneurs. JD Food also produces and distributes products under their brand",
+            "link": "/product?product=jdfood"
+        }
+    ]
+}

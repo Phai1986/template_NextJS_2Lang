@@ -1,0 +1,54 @@
+{
+    "product": {
+        "items": [
+            {
+                "img": "../../images/slide/original.jpg",
+                "h1": "มะพร้าวอบกรอบ รสดั้งเดิม"
+            },
+            {
+                "img": "../../images/slide/chocolate.jpg",
+                "h1": "มะพร้าวอบกรอบ รสช็อกโกแล็ต"
+            },
+            {
+                "img": "../../images/slide/wasabi.jpg",
+                "h1": "มะพร้าวอบกรอบ รสวาซาบิ"
+            },
+            {
+                "img": "../../images/slide/salted-caramel.jpg",
+                "h1": "มะพร้าวอบกรอบ รสซอลต์คาราเมล"
+            },
+            {
+                "img": "../../images/slide/curry.jpg",
+                "h1": "มะพร้าวอบกรอบ รสแกงกะหรี่"
+            },
+            {
+                "img": "../../images/slide/coconut-bites-chocolate.jpg",
+                "h1": "มะพร้าวอัดก้อน รสช็อกโกแลต"
+            },
+            {
+                "img": "../../images/slide/coconut-bites-mango.jpg",
+                "h1": "มะพร้าวอัดก้อน รสมะม่วง"
+            },
+            {
+                "img": "../../images/slide/coconut-bites-durian.jpg",
+                "h1": "มะพร้าวอัดก้อน รสทุเรียน"
+            },
+            {
+                "img": "../../images/slide/coconut-bites-matcha.jpg",
+                "h1": "มะพร้าวอัดก้อน รสชาเขียว"
+            },
+            {
+                "img": "../../images/slide/coconut-cluster-seedmedley.jpg",
+                "h1": "มะพร้าวก้อนอัดกรอบ รสซีด เมดเลย์"
+            },
+            {
+                "img": "../../images/slide/coconut-cluster-puffedrice-and-cranberry.jpg",
+                "h1": "มะพร้าวก้อนอัดกรอบ รสพัฟไรซ์ โกโก้ แอนด์แครนเบอร์รี่"
+            },
+            {
+                "img": "../../images/slide/coconut-cluster-dark-chocolate-and-cranberry.jpg",
+                "h1": "มะพร้าวก้อนอัดกรอบ รสดาร์กช็อคโกแลตแอนด์แครนเบอร์รี่"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "page": "About us",
+    "banner": [
+        {
+            "img": "../../images/about/banner.jpg",
+            "h1": "Our Story",
+            "p": "JD FOOD PCL was established with the intention of Dhirabul Hosajakul and 3 other partners from the ideology of being a company and a factory producing dehydrated products such as fruits, vegetables, meat which distribute to industrial factories that produce instant foods and snacks."
+        }
+    ],
+    "history": [
+        {
+            "img1": "../../images/about/img1.jpg",
+            "txt1": "From the beginning, the company has developed continuously until now and we have been the market leader in seasonings for the food industry and capable of exporting international standard products to all over the world. For more than 22 years in the food industry, JD Food has created more than 10,000 seasonings and formulas for customers by providing a One-Stop Service from responding to the needs of customers in the first step with a team of experts and analyze, improve, taste and provide recommendations related to food products efficiently. ",
+            "txt2": "Whether it's expanding a franchise while keeping the original flavors or creating new flavors for a wide range of food brands. We are a conscious partner who aims for the business to run smoothly.",
+            "img2": "../../images/about/img2.jpg",
+            "txt3": "One of JD Food's outstanding expertise is being a manufacturer and distributor of crispy coconut products which are produced with modern machinery and quality control systems that meet world-class standards. In addition to that, we also have 3 other brands under our supervision as follows: 'Kin Dee', instant food products that are easy to cook with the traditional Thai taste. 'Crispconut' is an intense-flavored snack for health lovers and can be used as an ingredient in other snacks. 'OK seasoning powder' is a quick and easy flavor enhancer. Just add it to the food to add deliciousness to your favorite dishes.",
+            "txt4": "Every production and every product are our commitment that JD Foods has devoted itself to developing its business and being the market leader in seasonings that is trustworthy as long as possible."
+        }
+    ]
+}

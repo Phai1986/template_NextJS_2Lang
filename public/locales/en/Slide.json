@@ -1,0 +1,54 @@
+{
+    "product": {
+        "items": [
+            {
+                "img": "../../images/slide/original.jpg",
+                "h1": "Coconutchips Original Flavour"
+            },
+            {
+                "img": "../../images/slide/chocolate.jpg",
+                "h1": "Coconutchips Chocolate Flavour"
+            },
+            {
+                "img": "../../images/slide/wasabi.jpg",
+                "h1": "Coconutchips Wasabi Flavour"
+            },
+            {
+                "img": "../../images/slide/salted-caramel.jpg",
+                "h1": "Coconutchips Salted Caramel Flavour"
+            },
+            {
+                "img": "../../images/slide/curry.jpg",
+                "h1": "Coconutchips Curry Flavour"
+            },
+            {
+                "img": "../../images/slide/coconut-bites-chocolate.jpg",
+                "h1": "Coconut Bites Chocolate Flavour"
+            },
+            {
+                "img": "../../images/slide/coconut-bites-mango.jpg",
+                "h1": "Coconut Bites Mango Flavour"
+            },
+            {
+                "img": "../../images/slide/coconut-bites-durian.jpg",
+                "h1": "Coconut Bites Durian Flavour"
+            },
+            {
+                "img": "../../images/slide/coconut-bites-matcha.jpg",
+                "h1": "Coconut Bites Matcha Flavour"
+            },
+            {
+                "img": "../../images/slide/coconut-cluster-seedmedley.jpg",
+                "h1": "Coconut Cluster Seed Medley Flavour"
+            },
+            {
+                "img": "../../images/slide/coconut-cluster-puffedrice-and-cranberry.jpg",
+                "h1": "Coconut Cluster Puffed Rice Cocoa & Cranberry Flavour"
+            },
+            {
+                "img": "../../images/slide/coconut-cluster-dark-chocolate-and-cranberry.jpg",
+                "h1": "Coconut Cluster Dark Chocolate & Cranberry Flavour"
+            }
+        ]
+    }
+}

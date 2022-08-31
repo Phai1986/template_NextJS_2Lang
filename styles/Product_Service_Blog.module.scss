@@ -1,0 +1,42 @@
+@import './variables.module.scss';
+
+.product_service {
+
+    h2 {
+        color: $primary-color;
+    }
+
+    .product {
+        margin-top: 40px;
+
+        .card {
+            border-bottom: 10px solid $primary-color;
+            margin-bottom: 20px;
+            height: 100%;
+
+            @media only screen and (max-width: 640px) {
+                height: auto;
+            }
+
+            .card_title {
+                font-size: 28px;
+                color: $primary-color;
+
+                @media only screen and (max-width: 640px) {
+                    font-size: 30px;
+                }
+            }
+
+            img {
+                max-width: 100%;
+            }
+
+            .card_text {
+                font-family: $font_light;
+                font-size: 16px;
+                color: $txt_gray;
+                min-height: 170px;
+            }
+        }
+    }
+}

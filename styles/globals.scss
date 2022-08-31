@@ -1,0 +1,86 @@
+@import './variables.module.scss';
+
+@font-face {
+  font-family: 'futuraheavy';
+  src: url('../public/fonts/futura_heavy_font-webfont.woff2') format('woff2'),
+    url('../public/fonts/futura_heavy_font-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'futuralight';
+  src: url('../public/fonts/futura_light_bt-webfont.woff2') format('woff2'),
+    url('../public/fonts/futura_light_bt-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'kittithada_medium_65regular';
+  src: url('../public/fonts/psl244pro-webfont.woff2') format('woff2'),
+    url('../public/fonts/psl244pro-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: futuraheavy, kittithada_medium_65regular, Helvetica Neue, sans-serif;
+
+  @media only screen and (max-width: 810px) {
+    overflow-x: hidden;
+  }
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+p {
+  line-height: normal
+}
+
+section {
+  background-color: $txt_white;
+  padding: 60px 0;
+  position: relative;
+  z-index: 0;
+
+  h2 {
+    font-size: 40px;
+    line-height: normal;
+
+    @media only screen and (max-width: 480px) {
+      font-size: 32px;
+    }
+  }
+
+  p {
+    font-size: 18px;
+    line-height: normal
+  }
+  
+}
+
+
+.nav-link.active {
+  background-color: $primary-color  !important;
+  color: $txt_white  !important;
+  border: 0 !important;
+}
+
+.ml-3 {
+  margin-left: 20px !important;
+}
