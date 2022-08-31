@@ -8,7 +8,8 @@
     "build": "next build && next export",
     "postbuild": "npm run 404",
     "server": "next start",
-    "start": "npm run dev",
+    "start": "next start -p $PORT",
+    "heroku-postbuild": "npm run build",
     "lint": "next lint",
     "test": "npm run lint",
     "serve": "http-server out -p 8080",
@@ -35,5 +36,9 @@
     "eslint-config-next": "12.2.1",
     "http-server": "14.1.1",
     "locize-cli": "7.12.0"
+  },
+  "engines": {
+    "node": "v16.16.0",
+    "npm": "8.11.0"
   }
 }
